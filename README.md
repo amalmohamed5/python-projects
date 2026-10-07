@@ -1,4 +1,4 @@
-# Python Learning Journey 
+# Python Learning Journey 🐍
 
 This repository documents my journey learning and practicing Python through hands-on projects.
 
@@ -22,9 +22,9 @@ Throughout this journey, I’m gradually applying concepts such as:
 
 ## Projects
 
-| #  | Project                      | Focus                                                               |
-| -- | ---------------------------- | ------------------------------------------------------------------- |
-| 01 | [To-Do List](./01-todo-list) | Python fundamentals, functions, lists, dictionaries, error handling |
-| 02 | POS & Inventory System       | Coming soon                                                         |
+| #  | Project                                      | Focus                                                                          |
+| -- | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| 01 | [To-Do List](./01-todo-list)                 | Python fundamentals, functions, lists, dictionaries, error handling            |
+| 02 | [POS & Inventory System](./02-pos-inventory) | Dictionaries, lists, functions, input validation, error handling, calculations |
 
 > This repository will grow as I continue learning Python, practicing new concepts, and building more projects.
